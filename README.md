@@ -27,8 +27,8 @@ VITE_API_BASE=http://localhost:5000/api
 npm run dev
 
 ## Deploy
-- Backend: deploy to Railway or Render.
-- Frontend: deploy to Netlify or Vercel.
+- Backend: deployed to Render.
+- Frontend: deployed to Vercel.
 
 ## Features
 - Signup / Login (JWT)
