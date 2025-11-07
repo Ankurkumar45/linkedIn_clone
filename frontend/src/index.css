@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+/* You can add global overrides below */
+html, body, #root {
+	height: 100%;
+}
+
+/* Example small utility override to keep consistent font smoothing */
+body {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
